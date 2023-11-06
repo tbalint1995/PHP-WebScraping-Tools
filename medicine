@@ -1,0 +1,31 @@
+<?php
+define('IN_WS', true);
+
+// Adatbázis inicializálás és adatkezelés parancsok.
+$connection = include('connection.php');
+include("store.php");
+if ($argv[1] === 'migrate') {
+
+    mysqli_query($connection, "drop table if exists `list`;");
+
+    mysqli_query($connection, "create table `list` (
+    `id` bigint unsigned not null auto_increment primary key,
+    `name` varchar(200),
+    `item_number` varchar(40), 
+    `ingredient` varchar(100), 
+    `atc` varchar(30), 
+    `approval_date` date default null, 
+    `created_at` datetime default CURRENT_TIMESTAMP,
+    `updated_at` datetime default null on update CURRENT_TIMESTAMP
+)");
+
+    print "Database: " . DB_NAME . "'s 'list' table successfully installed. ";
+} elseif ($argv[1] === 'store') {
+
+    mysqli_query($connection, "truncate table list");
+    foreach (explode("\n", file_get_contents('source.txt')) as $id) {
+        $store = new store(trim($id), $connection);
+        $store->save();
+        sleep(0.5);
+    }
+}

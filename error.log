@@ -1,0 +1,5808 @@
+ | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+ | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:43:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:25 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:29 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:35 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:50:42 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:17 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:18 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:19 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:59 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:52:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:52:59 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:00 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:00 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:00 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:00 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:00 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:00 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:01 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:01 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:01 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:01 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:01 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:01 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:02 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:02 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:02 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:02 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:02 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:02 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:03 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:03 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:05 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:53:05 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:05 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:05 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:05 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:53:05 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:55:25 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:55:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:25 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:25 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:55:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:55:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:26 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:55:26 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:31 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:31 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:32 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:32 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:33 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:33 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:34 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:34 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:36 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:36 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:37 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:37 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:38 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:38 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:39 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:39 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:40 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:40 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:41 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:41 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:43 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:43 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:43 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:43 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:43 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:43 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:44 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:44 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:44 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:44 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:44 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:44 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:45 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:45 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:45 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:45 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:45 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:45 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:46 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:46 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:46 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:46 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:46 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:46 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:47 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:47 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:47 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:47 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:47 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:47 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:48 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:48 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:48 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:48 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:48 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:48 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:50 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:50 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:50 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:50 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:50 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:50 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:51 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:51 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:51 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:51 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:51 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:51 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:52 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:52 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:52 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:52 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:52 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:52 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:53 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:53 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:53 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:53 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:53 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:53 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:54 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:54 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:54 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:54 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:54 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:54 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:56 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:56 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:56 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:56 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:56 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:56 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:57 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:57 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:57 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:58 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:58 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:58 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:58 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:58 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:58 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:59 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:57:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:59 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:57:59 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:58:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:58:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:27 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:27 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:58:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:58:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:28 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:28 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:58:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 00:58:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:30 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 00:58:30 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:01:03 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:01:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:03 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:03 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:01:04 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:01:04 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:04 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:04 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:04 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:01:04 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:08:22 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:08:22 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:22 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:22 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:22 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:22 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:08:24 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
+2023-11-05 01:08:24 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Nyilvántartási szám<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:24 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Hatóanyag<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:24 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">ATC-kód<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:24 | action: failed_data, args: Array
+(
+    [0] => /<span class="line__title">Készítmény engedélyezésének dátuma<\/span> <span class="line__desc">(.*?)<\/span>/
+    [1] => 
+)
+
+2023-11-05 01:08:24 | action: failed_data, args: Array
+(
+    [0] => /<h3 class="gy-content__title">(.*?)<\/h3>/
+    [1] => 
+)
+
